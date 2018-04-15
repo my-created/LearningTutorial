@@ -8,4 +8,4 @@
 
 3. js中的一些小技术点 [小技术点](small.md)。闭包，时间委托，惰性计算。
 
-4. Markdown [Markdown](markdown.md)
+4. Markdown [Markdown](markdown.md)
