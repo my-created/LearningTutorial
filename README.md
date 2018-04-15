@@ -5,3 +5,7 @@
 1. C语言（C11标准）语言教程。[C 语言教程--菜鸟教程](http://www.runoob.com/cprogramming/c-tutorial.html),[我自己的感想](C.md)
 
 2. 设计模式教程。[设计模式--菜鸟教程](http://www.runoob.com/cprogramming/c-tutorial.html)。
+
+3. js中的一些小技术点 [小技术点](small.md)。闭包，时间委托，惰性计算。
+
+4. Markdown [Markdown](markdown.md)
